@@ -7,8 +7,11 @@ This repo will store the notebook file (ipynb) and results csv file for the Kagg
 It's highly recomended to run this code with access to GPUs. I built and tested this notebook using Google Colab with access to their L4 GPU.
 
 ## Files
-Jupyter Notebook for building model:
+### Jupyter Notebook for building model:
 CNN_Cancer_Detection_Colab.ipynb
-
-Results csv
+  
+### Results csv
 ccn_submission_v1.csv
+
+### Leaderboard Image
+CNN_Leaderboard.png
